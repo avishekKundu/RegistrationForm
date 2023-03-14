@@ -64,6 +64,7 @@ div {
 								<option>Kannada</option>
 								<option>Bengali</option>
 								<option>Tamil</option>
+							        <option>Telegu</option>
 						</select></td>
 					</tr>
 					<tr>
